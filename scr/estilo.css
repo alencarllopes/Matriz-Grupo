@@ -18,3 +18,37 @@
 .accordion-button:not(.collapsed)::after {
     filter: invert(1);
 }
+
+/* Itens filhos */
+.item-filho {
+    row-gap: 4px;
+}
+
+/* Código */
+.item-filho .codigo {
+    font-size: 0.85rem;
+    white-space: nowrap;
+}
+
+/* Descrição */
+.item-filho .descricao {
+    font-size: 0.9rem;
+    word-break: break-word;
+    line-height: 1.2;
+}
+
+/* HDS */
+.item-filho .hds {
+    font-size: 0.85rem;
+}
+
+/* Ajustes específicos para mobile */
+@media (max-width: 576px) {
+    .item-filho {
+        font-size: 0.85rem;
+    }
+
+    .item-filho .codigo {
+        margin-bottom: 2px;
+    }
+}
