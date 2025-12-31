@@ -1,0 +1,20 @@
+.navbar body {
+    font-family: "Poppins", sans-serif;
+    color: #002f4f;
+}
+
+.minha-classe-fundo {
+    min-height: 100%;
+    background: linear-gradient(135deg, #0d1117, #1b263b);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}
+
+.accordion-button::after {
+    filter: invert(1);
+}
+
+.accordion-button:not(.collapsed)::after {
+    filter: invert(1);
+}
