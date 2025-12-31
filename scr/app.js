@@ -66,17 +66,19 @@ dadosAgrupados.forEach((tipo, t) => {
                                         <ul class="list-group list-group-flush">
                                             ${grupo.itens.map(item => `
                                                 <li class="list-group-item bg-dark text-light">
-                                                    <div class="row">
-                                                        <div class="col-2 fw-bold">
-                                                            ${formatarCodigo(tipo.tipo, grupo.grupo, item.sub)}
-                                                        </div>
-                                                        <div class="col-8">
-                                                            ${item.descricao}
-                                                        </div>
-                                                        <div class="col-2 text-end">
-                                                            ${item.hds}
-                                                        </div>
-                                                    </div>
+                                                    <div class="row item-filho">
+    <div class="col-12 col-md-2 fw-bold codigo">
+        ${formatarCodigo(tipo.tipo, grupo.grupo, item.sub)}
+    </div>
+
+    <div class="col-12 col-md-8 descricao">
+        ${item.descricao}
+    </div>
+
+    <div class="col-12 col-md-2 text-md-end hds">
+        ${item.hds}
+    </div>
+</div>
                                                 </li>
                                             `).join("")}
                                         </ul>
