@@ -1926,7 +1926,7 @@ const dados = [
         "CÓDIGO HDS": "4166"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
@@ -1935,7 +1935,7 @@ const dados = [
         "CÓDIGO HDS": "4166"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
@@ -1944,7 +1944,7 @@ const dados = [
         "CÓDIGO HDS": "4166"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
@@ -1953,7 +1953,7 @@ const dados = [
         "CÓDIGO HDS": "4166"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
@@ -1962,7 +1962,7 @@ const dados = [
         "CÓDIGO HDS": "4166"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "PEÇAS INTERMEDIARIA S/ PADRÃO",
@@ -1971,7 +1971,7 @@ const dados = [
         "CÓDIGO HDS": "4199"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -1980,7 +1980,7 @@ const dados = [
         "CÓDIGO HDS": "7631"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -1989,7 +1989,7 @@ const dados = [
         "CÓDIGO HDS": "7632"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -1998,7 +1998,7 @@ const dados = [
         "CÓDIGO HDS": "7633"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2007,7 +2007,7 @@ const dados = [
         "CÓDIGO HDS": "7634"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2016,7 +2016,7 @@ const dados = [
         "CÓDIGO HDS": "7643"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2025,7 +2025,7 @@ const dados = [
         "CÓDIGO HDS": "7650"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2034,7 +2034,7 @@ const dados = [
         "CÓDIGO HDS": "7652"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2043,7 +2043,7 @@ const dados = [
         "CÓDIGO HDS": "7653"
     },
     {
-        "TIPO": "05",
+        "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
@@ -2052,7 +2052,7 @@ const dados = [
         "CÓDIGO HDS": "7654"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2061,7 +2061,7 @@ const dados = [
         "CÓDIGO HDS": "9501"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2070,7 +2070,7 @@ const dados = [
         "CÓDIGO HDS": "9503"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2079,7 +2079,7 @@ const dados = [
         "CÓDIGO HDS": "9505"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2088,7 +2088,7 @@ const dados = [
         "CÓDIGO HDS": "9506"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2097,7 +2097,7 @@ const dados = [
         "CÓDIGO HDS": "9507"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2106,7 +2106,7 @@ const dados = [
         "CÓDIGO HDS": "9508"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2115,7 +2115,7 @@ const dados = [
         "CÓDIGO HDS": "9509"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2124,7 +2124,7 @@ const dados = [
         "CÓDIGO HDS": "-"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2133,7 +2133,7 @@ const dados = [
         "CÓDIGO HDS": "9516"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2142,7 +2142,7 @@ const dados = [
         "CÓDIGO HDS": "9518"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "FERRAMENTAS / CONSUMIVEIS DE TRABALHO",
@@ -2151,7 +2151,7 @@ const dados = [
         "CÓDIGO HDS": "9511"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2160,7 +2160,7 @@ const dados = [
         "CÓDIGO HDS": "9502"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2169,7 +2169,7 @@ const dados = [
         "CÓDIGO HDS": "9511"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2178,7 +2178,7 @@ const dados = [
         "CÓDIGO HDS": "9510"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2187,7 +2187,7 @@ const dados = [
         "CÓDIGO HDS": "9512"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2196,7 +2196,7 @@ const dados = [
         "CÓDIGO HDS": "9513"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2205,7 +2205,7 @@ const dados = [
         "CÓDIGO HDS": "9514"
     },
     {
-        "TIPO": "06",
+        "TIPO": "05",
         "DESCRIÇÃO": "MC - MATERIAL DE CONSUMO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "CONSUMIVEIS DIA A DIA / MANUTENÇÃO",
@@ -2214,7 +2214,7 @@ const dados = [
         "CÓDIGO HDS": "9515"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "ELETRONICOS E INFORMATICA",
@@ -2223,7 +2223,7 @@ const dados = [
         "CÓDIGO HDS": "9601"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "ELETRONICOS E INFORMATICA",
@@ -2232,7 +2232,7 @@ const dados = [
         "CÓDIGO HDS": "9602"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "ELETRONICOS E INFORMATICA",
@@ -2241,7 +2241,7 @@ const dados = [
         "CÓDIGO HDS": "9606"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "OBRAS E EQUIPAMENTOS GERAIS",
@@ -2250,7 +2250,7 @@ const dados = [
         "CÓDIGO HDS": "9603"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "OBRAS E EQUIPAMENTOS GERAIS",
@@ -2259,7 +2259,7 @@ const dados = [
         "CÓDIGO HDS": "9609"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "OBRAS E EQUIPAMENTOS GERAIS",
@@ -2268,7 +2268,7 @@ const dados = [
         "CÓDIGO HDS": "9608"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "FERRAMENTAS",
@@ -2277,7 +2277,7 @@ const dados = [
         "CÓDIGO HDS": "9601"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "FERRAMENTAS",
@@ -2286,7 +2286,7 @@ const dados = [
         "CÓDIGO HDS": "9602"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "FERRAMENTAS",
@@ -2295,7 +2295,7 @@ const dados = [
         "CÓDIGO HDS": "9602"
     },
     {
-        "TIPO": "07",
+        "TIPO": "06",
         "DESCRIÇÃO": "AI - ATIVO IMOBILIZADO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "VEICULOS",
@@ -2304,7 +2304,7 @@ const dados = [
         "CÓDIGO HDS": "9607"
     },
     {
-        "TIPO": "08",
+        "TIPO": "07",
         "DESCRIÇÃO": "CS - SERVIÇO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "SERVIÇOS",
@@ -2313,7 +2313,7 @@ const dados = [
         "CÓDIGO HDS": "9998"
     },
     {
-        "TIPO": "09",
+        "TIPO": "08",
         "DESCRIÇÃO": "MO - MOD",
         "GRUPO": "01",
         "DESCRIÇÃO2": "HORAS",
@@ -2322,7 +2322,7 @@ const dados = [
         "CÓDIGO HDS": ""
     },
     {
-        "TIPO": "10",
+        "TIPO": "09",
         "DESCRIÇÃO": "FS - VENDA SERVIÇO",
         "GRUPO": "01",
         "DESCRIÇÃO2": "SERVIÇOS VENDA",
