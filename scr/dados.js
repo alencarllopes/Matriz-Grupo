@@ -131,7 +131,7 @@ const dados = [
         "GRUPO": "02",
         "DESCRIÇÃO2": "NO-BREAK MONOFÁSICO",
         "SUBGRUPO": "03",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - INTERNO - PADRÃO",
+        "DESCRIÇÃO3": "BANCO DE BATERIAS - PADRÃO",
         "CÓDIGO HDS": "5122"
     },
     {
@@ -140,15 +140,6 @@ const dados = [
         "GRUPO": "02",
         "DESCRIÇÃO2": "NO-BREAK MONOFÁSICO",
         "SUBGRUPO": "04",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - EXTERNO - PADRÃO",
-        "CÓDIGO HDS": "5120, 5121"
-    },
-    {
-        "TIPO": "01",
-        "DESCRIÇÃO": "PA - PRODUTO ACABADO",
-        "GRUPO": "02",
-        "DESCRIÇÃO2": "NO-BREAK MONOFÁSICO",
-        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "BANCO DE BATERIAS - FORA DO PADRÃO",
         "CÓDIGO HDS": "5140"
     },
@@ -157,7 +148,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "NO-BREAK MONOFÁSICO",
-        "SUBGRUPO": "06",
+        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "SISTEMAS COMPLETOS",
         "CÓDIGO HDS": "-"
     },
@@ -166,7 +157,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "02",
         "DESCRIÇÃO2": "NO-BREAK MONOFÁSICO",
-        "SUBGRUPO": "07",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "KIT DE CABOS",
         "CÓDIGO HDS": "5913"
     },
@@ -194,7 +185,7 @@ const dados = [
         "GRUPO": "03",
         "DESCRIÇÃO2": "NO-BREAK TRI-MONOFÁSICO",
         "SUBGRUPO": "03",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - INTERNO - PADRÃO",
+        "DESCRIÇÃO3": "BANCO DE BATERIAS - PADRÃO",
         "CÓDIGO HDS": "5122"
     },
     {
@@ -203,15 +194,6 @@ const dados = [
         "GRUPO": "03",
         "DESCRIÇÃO2": "NO-BREAK TRI-MONOFÁSICO",
         "SUBGRUPO": "04",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - EXTERNO - PADRÃO",
-        "CÓDIGO HDS": "5120, 5121"
-    },
-    {
-        "TIPO": "01",
-        "DESCRIÇÃO": "PA - PRODUTO ACABADO",
-        "GRUPO": "03",
-        "DESCRIÇÃO2": "NO-BREAK TRI-MONOFÁSICO",
-        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "BANCO DE BATERIAS - FORA DO PADRÃO",
         "CÓDIGO HDS": "5140"
     },
@@ -220,7 +202,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "NO-BREAK TRI-MONOFÁSICO",
-        "SUBGRUPO": "06",
+        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "SISTEMAS COMPLETOS",
         "CÓDIGO HDS": "-"
     },
@@ -229,7 +211,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "03",
         "DESCRIÇÃO2": "NO-BREAK TRI-MONOFÁSICO",
-        "SUBGRUPO": "07",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "KIT DE CABOS",
         "CÓDIGO HDS": "5913"
     },
@@ -266,7 +248,7 @@ const dados = [
         "GRUPO": "04",
         "DESCRIÇÃO2": "NO-BREAK TRIFÁSICO",
         "SUBGRUPO": "04",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - INTERNO - PADRÃO",
+        "DESCRIÇÃO3": "BANCO DE BATERIAS - PADRÃO",
         "CÓDIGO HDS": "5252"
     },
     {
@@ -275,15 +257,6 @@ const dados = [
         "GRUPO": "04",
         "DESCRIÇÃO2": "NO-BREAK TRIFÁSICO",
         "SUBGRUPO": "05",
-        "DESCRIÇÃO3": "BANCO DE BATERIAS - EXTERNO - PADRÃO",
-        "CÓDIGO HDS": "5250, 5251"
-    },
-    {
-        "TIPO": "01",
-        "DESCRIÇÃO": "PA - PRODUTO ACABADO",
-        "GRUPO": "04",
-        "DESCRIÇÃO2": "NO-BREAK TRIFÁSICO",
-        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "BANCO DE BATERIAS - FORA DO PADRÃO",
         "CÓDIGO HDS": "5280"
     },
@@ -292,7 +265,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "NO-BREAK TRIFÁSICO",
-        "SUBGRUPO": "07",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "SISTEMAS COMPLETOS",
         "CÓDIGO HDS": "-"
     },
@@ -301,7 +274,7 @@ const dados = [
         "DESCRIÇÃO": "PA - PRODUTO ACABADO",
         "GRUPO": "04",
         "DESCRIÇÃO2": "NO-BREAK TRIFÁSICO",
-        "SUBGRUPO": "08",
+        "SUBGRUPO": "07",
         "DESCRIÇÃO3": "KIT DE CABOS",
         "CÓDIGO HDS": "5913"
     },
@@ -473,26 +446,8 @@ const dados = [
         "GRUPO": "09",
         "DESCRIÇÃO2": "TRANSFORMADORES",
         "SUBGRUPO": "07",
-        "DESCRIÇÃO3": "TRANSF. ESPECIAIS COM CAT - (PA)",
+        "DESCRIÇÃO3": "TRANSF. ESPECIAIS (PA)",
         "CÓDIGO HDS": "7862"
-    },
-    {
-        "TIPO": "01",
-        "DESCRIÇÃO": "PA - PRODUTO ACABADO",
-        "GRUPO": "09",
-        "DESCRIÇÃO2": "TRANSFORMADORES",
-        "SUBGRUPO": "08",
-        "DESCRIÇÃO3": "TRANSF. ESPECIAIS SEM CAT - (PA)",
-        "CÓDIGO HDS": "7861"
-    },
-    {
-        "TIPO": "01",
-        "DESCRIÇÃO": "PA - PRODUTO ACABADO",
-        "GRUPO": "09",
-        "DESCRIÇÃO2": "TRANSFORMADORES",
-        "SUBGRUPO": "10",
-        "DESCRIÇÃO3": "TRANSFORMADORES ESPECIAIS",
-        "CÓDIGO HDS": "5616"
     },
     {
         "TIPO": "01",
@@ -617,6 +572,15 @@ const dados = [
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
         "SUBGRUPO": "01",
+        "DESCRIÇÃO3": "BATERIAS ACTPOWER",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "01",
+        "DESCRIÇÃO2": "BATERIAS",
+        "SUBGRUPO": "02",
         "DESCRIÇÃO3": "BATERIAS SECPOWER             ",
         "CÓDIGO HDS": "7303"
     },
@@ -625,7 +589,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "02",
+        "SUBGRUPO": "03",
         "DESCRIÇÃO3": "BATERIAS POWERSAFE            ",
         "CÓDIGO HDS": "7304"
     },
@@ -634,7 +598,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "03",
+        "SUBGRUPO": "04",
         "DESCRIÇÃO3": "BATERIAS HOPPCKE              ",
         "CÓDIGO HDS": "7305"
     },
@@ -643,7 +607,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "04",
+        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "BATERIAS FREEDOM              ",
         "CÓDIGO HDS": "7306"
     },
@@ -652,7 +616,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "05",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "BATERIA DURACELL              ",
         "CÓDIGO HDS": "7307"
     },
@@ -661,7 +625,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "06",
+        "SUBGRUPO": "07",
         "DESCRIÇÃO3": "BATERIAS MHB                  ",
         "CÓDIGO HDS": "7309"
     },
@@ -670,7 +634,7 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "01",
         "DESCRIÇÃO2": "BATERIAS",
-        "SUBGRUPO": "07",
+        "SUBGRUPO": "08",
         "DESCRIÇÃO3": "BATERIAS GENÉRICAS",
         "CÓDIGO HDS": "7310"
     },
@@ -679,8 +643,17 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "02",
         "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - IMPORTADOS",
-        "SUBGRUPO": "",
-        "DESCRIÇÃO3": "",
+        "SUBGRUPO": "01",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS KSTAR",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - IMPORTADOS",
+        "SUBGRUPO": "03",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS SVC",
         "CÓDIGO HDS": ""
     },
     {
@@ -688,8 +661,35 @@ const dados = [
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "03",
         "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - NACIONAIS",
-        "SUBGRUPO": "",
-        "DESCRIÇÃO3": "",
+        "SUBGRUPO": "01",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS POWERCOM",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - NACIONAIS",
+        "SUBGRUPO": "02",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS CS ELETRO",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - NACIONAIS",
+        "SUBGRUPO": "03",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS PHD",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "NO-BREAK E ACESSÓRIOS - NACIONAIS",
+        "SUBGRUPO": "04",
+        "DESCRIÇÃO3": "MAQUINAS E ACESSORIOS ATA",
         "CÓDIGO HDS": ""
     },
     {
@@ -741,7 +741,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "MINI-DISJUNTORES E ACESSÓRIOS",
         "CÓDIGO HDS": "7401"
@@ -750,7 +750,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "DISJUNTORES CAIXA MOLDADA E ACESSÓRIOS",
         "CÓDIGO HDS": "7402"
@@ -759,7 +759,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "DISJUNTORES CAIXA ABERTA E ACESSÓRIOS",
         "CÓDIGO HDS": "7403"
@@ -768,7 +768,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "DISJUNTOR MOTOR E ACESSÓRIOS",
         "CÓDIGO HDS": "7404"
@@ -777,7 +777,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "DPS",
         "CÓDIGO HDS": "7405"
@@ -786,7 +786,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "FUSIVEÍS BAIXA TENSÃO",
         "CÓDIGO HDS": "7406"
@@ -795,7 +795,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "DR",
         "CÓDIGO HDS": "7407"
@@ -804,7 +804,7 @@ const dados = [
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
         "GRUPO": "05",
-        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
         "SUBGRUPO": "08",
         "DESCRIÇÃO3": "RELÉ TÉRMICO",
         "CÓDIGO HDS": "7408"
@@ -812,35 +812,35 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "06",
-        "DESCRIÇÃO2": "MANOBRA",
-        "SUBGRUPO": "01",
+        "GRUPO": "05",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
+        "SUBGRUPO": "09",
         "DESCRIÇÃO3": "SECCIONADORES",
         "CÓDIGO HDS": "7416"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "06",
-        "DESCRIÇÃO2": "MANOBRA",
-        "SUBGRUPO": "02",
+        "GRUPO": "05",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
+        "SUBGRUPO": "10",
         "DESCRIÇÃO3": "COMUTADORES",
         "CÓDIGO HDS": "7417"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "06",
-        "DESCRIÇÃO2": "MANOBRA",
-        "SUBGRUPO": "03",
+        "GRUPO": "05",
+        "DESCRIÇÃO2": "PROTEÇÃO CIRCUITOS E MANOBRA",
+        "SUBGRUPO": "11",
         "DESCRIÇÃO3": "CONTATORES",
         "CÓDIGO HDS": "7418"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "MULTIFUNÇÃO (SUB E SOBRE)",
         "CÓDIGO HDS": "7424"
@@ -848,8 +848,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "CORRENTE",
         "CÓDIGO HDS": "7425"
@@ -857,8 +857,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "TENSÃO",
         "CÓDIGO HDS": "7426"
@@ -866,34 +866,79 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
         "SUBGRUPO": "04",
+        "DESCRIÇÃO3": "RELÉ MT",
+        "CÓDIGO HDS": ""
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "TEMPERATURA",
         "CÓDIGO HDS": "7427"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
-        "SUBGRUPO": "05",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "BLOQUEIO",
         "CÓDIGO HDS": "7428"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "07",
-        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO",
-        "SUBGRUPO": "06",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "07",
         "DESCRIÇÃO3": "NÍVEL",
         "CÓDIGO HDS": "7429"
     },
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "08",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "08",
+        "DESCRIÇÃO3": "FONTE DE ALIMENTAÇÃO",
+        "CÓDIGO HDS": "7448"
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "09",
+        "DESCRIÇÃO3": "CLP",
+        "CÓDIGO HDS": "-"
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "10",
+        "DESCRIÇÃO3": "INVERSOR DE FREQUENCIA",
+        "CÓDIGO HDS": "-"
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "06",
+        "DESCRIÇÃO2": "RELÉ DE PROTEÇÃO E AUTOMAÇÃO",
+        "SUBGRUPO": "11",
+        "DESCRIÇÃO3": "SOFT-STARTER",
+        "CÓDIGO HDS": "-"
+    },
+    {
+        "TIPO": "03",
+        "DESCRIÇÃO": "MP - MATERIA PRIMA",
+        "GRUPO": "07",
         "DESCRIÇÃO2": "TRANSFORMADORES",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "TP - BAIXA TENSÃO",
@@ -902,7 +947,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "08",
+        "GRUPO": "07",
         "DESCRIÇÃO2": "TRANSFORMADORES",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "TC - BAIXA TENSÃO",
@@ -911,7 +956,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "08",
+        "GRUPO": "07",
         "DESCRIÇÃO2": "TRANSFORMADORES",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "TRAFO COMANDO",
@@ -920,7 +965,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "08",
+        "GRUPO": "07",
         "DESCRIÇÃO2": "TRANSFORMADORES",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "TRANSFORMADORES EM GERAL",
@@ -929,7 +974,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "MULTIMEDIDORES",
@@ -938,7 +983,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "INDICADOR DIGITAL",
@@ -947,7 +992,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "INDICADOR ANALÓGICO",
@@ -956,7 +1001,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "TRANSDUTORES",
@@ -965,7 +1010,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "SHUNT",
@@ -974,7 +1019,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "09",
+        "GRUPO": "08",
         "DESCRIÇÃO2": "INSTRUMENTAÇÃO",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "BLOCO DE TESTES",
@@ -983,43 +1028,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "10",
-        "DESCRIÇÃO2": "AUTOMAÇÃO",
-        "SUBGRUPO": "01",
-        "DESCRIÇÃO3": "FONTE DE ALIMENTAÇÃO",
-        "CÓDIGO HDS": "7448"
-    },
-    {
-        "TIPO": "03",
-        "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "10",
-        "DESCRIÇÃO2": "AUTOMAÇÃO",
-        "SUBGRUPO": "02",
-        "DESCRIÇÃO3": "CLP",
-        "CÓDIGO HDS": "-"
-    },
-    {
-        "TIPO": "03",
-        "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "10",
-        "DESCRIÇÃO2": "AUTOMAÇÃO",
-        "SUBGRUPO": "03",
-        "DESCRIÇÃO3": "INVERSOR DE FREQUENCIA",
-        "CÓDIGO HDS": "-"
-    },
-    {
-        "TIPO": "03",
-        "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "10",
-        "DESCRIÇÃO2": "AUTOMAÇÃO",
-        "SUBGRUPO": "04",
-        "DESCRIÇÃO3": "SOFT-STARTER",
-        "CÓDIGO HDS": "-"
-    },
-    {
-        "TIPO": "03",
-        "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
+        "GRUPO": "09",
         "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "BORNES",
@@ -1028,8 +1037,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "RELÉ INTERFACE E MINI CONTATORES",
         "CÓDIGO HDS": "7456"
@@ -1037,8 +1046,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "RELÉ TEMPORIZADO",
         "CÓDIGO HDS": "7457"
@@ -1046,8 +1055,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "SINALEIROS E BOTÕES",
         "CÓDIGO HDS": "7458, 7459"
@@ -1055,8 +1064,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "COMUTADORES",
         "CÓDIGO HDS": "7460"
@@ -1064,8 +1073,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "PROGRAMADOR HORARIO",
         "CÓDIGO HDS": "7463"
@@ -1073,8 +1082,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "11",
-        "DESCRIÇÃO2": "SINALIZAÇÃO E COMANDO",
+        "GRUPO": "09",
+        "DESCRIÇÃO2": "SINALIZAÇÃO, COMANDO GERAL",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "TOMADAS MULTIPLOS POLOS",
         "CÓDIGO HDS": ""
@@ -1082,8 +1091,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "12",
-        "DESCRIÇÃO2": "SERV. AUXILIAR",
+        "GRUPO": "10",
+        "DESCRIÇÃO2": "CIRCUITO AUXILIAR",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "ILUMINAÇÃO E AQUECIMENTO",
         "CÓDIGO HDS": "7471"
@@ -1091,8 +1100,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "12",
-        "DESCRIÇÃO2": "SERV. AUXILIAR",
+        "GRUPO": "10",
+        "DESCRIÇÃO2": "CIRCUITO AUXILIAR",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "FIM DE CURSO",
         "CÓDIGO HDS": "7462"
@@ -1100,8 +1109,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "12",
-        "DESCRIÇÃO2": "SERV. AUXILIAR",
+        "GRUPO": "10",
+        "DESCRIÇÃO2": "CIRCUITO AUXILIAR",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "TOMADAS",
         "CÓDIGO HDS": "7472"
@@ -1109,8 +1118,8 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "12",
-        "DESCRIÇÃO2": "SERV. AUXILIAR",
+        "GRUPO": "10",
+        "DESCRIÇÃO2": "CIRCUITO AUXILIAR",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "TOMADAS INDUSTRIAIS",
         "CÓDIGO HDS": ""
@@ -1118,7 +1127,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "CAPACITORES",
@@ -1127,7 +1136,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "RESISTORES",
@@ -1136,7 +1145,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "DIODO E DISSIPADORES",
@@ -1145,7 +1154,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "TRANSISTORES",
@@ -1154,7 +1163,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "VARISTORES",
@@ -1163,7 +1172,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "CI",
@@ -1172,7 +1181,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "13",
+        "GRUPO": "11",
         "DESCRIÇÃO2": "COMPONENTES ELETRÔNICOS",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "DEMAIS COMPONENTES ELETRÔNICOS",
@@ -1181,7 +1190,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "14",
+        "GRUPO": "12",
         "DESCRIÇÃO2": "CLIMATIZAÇÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "VENTILADOR / EXAUSTOR E CONJUNTOS",
@@ -1190,7 +1199,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "14",
+        "GRUPO": "12",
         "DESCRIÇÃO2": "CLIMATIZAÇÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "GRELHAS / VENEZIANAS E FILTROS",
@@ -1199,7 +1208,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "TP - MÉDIA TENSÃO",
@@ -1208,7 +1217,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "TC - MÉDIA TENSÃO",
@@ -1217,7 +1226,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "DISJUNTOR MÉDIA TENSÃO",
@@ -1226,7 +1235,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "SECCIONADORES MÉDIA TENSÃO",
@@ -1235,7 +1244,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "FUSIVEIS MÉDIA TENSÃO",
@@ -1244,7 +1253,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "15",
+        "GRUPO": "13",
         "DESCRIÇÃO2": "MÉDIA TENSÃO",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "IMPORTAÇÃO MÉDIA TENSÃO",
@@ -1253,7 +1262,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "CALHAS",
@@ -1262,7 +1271,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "TRILHOS",
@@ -1271,7 +1280,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "DOBRADIÇA",
@@ -1280,7 +1289,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "FECHOS",
@@ -1289,7 +1298,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "PRENSA CABO",
@@ -1298,7 +1307,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "TAMPÃO",
@@ -1307,7 +1316,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "RODIZIO",
@@ -1316,7 +1325,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "08",
         "DESCRIÇÃO3": "GARRAS",
@@ -1325,7 +1334,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "16",
+        "GRUPO": "14",
         "DESCRIÇÃO2": "ACESSÓRIOS MECÂNICOS",
         "SUBGRUPO": "09",
         "DESCRIÇÃO3": "BORRACHAS DE VEDAÇÃO",
@@ -1334,7 +1343,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "17",
+        "GRUPO": "15",
         "DESCRIÇÃO2": "CONDUTORES",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "CABOS",
@@ -1343,7 +1352,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "17",
+        "GRUPO": "15",
         "DESCRIÇÃO2": "CONDUTORES",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "TERMINAIS P/ CABOS",
@@ -1352,7 +1361,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "17",
+        "GRUPO": "15",
         "DESCRIÇÃO2": "CONDUTORES",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "ID PARA CABOS",
@@ -1361,7 +1370,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "17",
+        "GRUPO": "15",
         "DESCRIÇÃO2": "CONDUTORES",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "ABRAÇ E ESPIRAL",
@@ -1370,7 +1379,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "17",
+        "GRUPO": "15",
         "DESCRIÇÃO2": "CONDUTORES",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "CORDOALHAS",
@@ -1379,7 +1388,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "18",
+        "GRUPO": "16",
         "DESCRIÇÃO2": "BARRAMENTO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "BARRA DE COBRE",
@@ -1388,7 +1397,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "18",
+        "GRUPO": "16",
         "DESCRIÇÃO2": "BARRAMENTO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "BARRA DE ALUMINIO",
@@ -1397,7 +1406,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "19",
+        "GRUPO": "17",
         "DESCRIÇÃO2": "METALURGIA",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "METALURGIA (MP)",
@@ -1406,7 +1415,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "PARAFUSOS",
@@ -1415,7 +1424,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "ARRUELAS E PORCAS",
@@ -1424,7 +1433,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "REBITES",
@@ -1433,7 +1442,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "BARRA ROSCADA",
@@ -1442,7 +1451,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "CHUMBADOR",
@@ -1451,7 +1460,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "20",
+        "GRUPO": "18",
         "DESCRIÇÃO2": "ELEMENTOS DE FIXAÇÃO",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "OLHAL DE IÇAMENTO",
@@ -1460,7 +1469,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "21",
+        "GRUPO": "19",
         "DESCRIÇÃO2": "SINALIZAÇÃO / IDENTIFICAÇÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "PLACA DE INOX",
@@ -1469,7 +1478,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "21",
+        "GRUPO": "19",
         "DESCRIÇÃO2": "SINALIZAÇÃO / IDENTIFICAÇÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "PLACA DE ALUMÍNIO",
@@ -1478,7 +1487,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "21",
+        "GRUPO": "19",
         "DESCRIÇÃO2": "SINALIZAÇÃO / IDENTIFICAÇÃO",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "ADESIVOS E ETIQUETAS",
@@ -1487,7 +1496,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "AÇO CARBONO",
@@ -1496,7 +1505,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "AÇO GALVANIZADO A FRIO",
@@ -1505,7 +1514,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "ALUMINIO",
@@ -1514,7 +1523,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "PERFIL / TUBO DE AÇO CARBONO",
@@ -1523,7 +1532,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "TELAS",
@@ -1532,7 +1541,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "22",
+        "GRUPO": "20",
         "DESCRIÇÃO2": "CHAPAS",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "INOX",
@@ -1541,7 +1550,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "23",
+        "GRUPO": "21",
         "DESCRIÇÃO2": "ISOLANTES",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "PREMIX",
@@ -1550,7 +1559,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "23",
+        "GRUPO": "21",
         "DESCRIÇÃO2": "ISOLANTES",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "POLICARBONATO/PETG",
@@ -1559,7 +1568,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "23",
+        "GRUPO": "21",
         "DESCRIÇÃO2": "ISOLANTES",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "ACRILICO",
@@ -1568,7 +1577,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "24",
+        "GRUPO": "22",
         "DESCRIÇÃO2": "EMBALAGEM",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "MADEIRA",
@@ -1577,7 +1586,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "24",
+        "GRUPO": "22",
         "DESCRIÇÃO2": "EMBALAGEM",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "PLASTICO",
@@ -1586,7 +1595,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "24",
+        "GRUPO": "22",
         "DESCRIÇÃO2": "EMBALAGEM",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "PAPEL",
@@ -1595,7 +1604,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "25",
+        "GRUPO": "23",
         "DESCRIÇÃO2": "QUADROS E PAINEIS",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "QUADROS DE SOBREPOR (MP)",
@@ -1604,7 +1613,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "25",
+        "GRUPO": "23",
         "DESCRIÇÃO2": "QUADROS E PAINEIS",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "QUADROS DE ALUMINIO FUNDIDO",
@@ -1613,7 +1622,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "25",
+        "GRUPO": "23",
         "DESCRIÇÃO2": "QUADROS E PAINEIS",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "TINTAS EPOXI EM PÓ",
@@ -1622,7 +1631,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "CHAPA AÇO SILICIO",
@@ -1631,7 +1640,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "FIOS AWG ALUMINIO",
@@ -1640,7 +1649,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "FIOS AWG COBRE",
@@ -1649,7 +1658,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "CADARÇO",
@@ -1658,7 +1667,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "PERFIL PUTRULDADO",
@@ -1667,7 +1676,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "NYLON",
@@ -1676,7 +1685,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "FENOLITE",
@@ -1685,7 +1694,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "08",
         "DESCRIÇÃO3": "THERNOMID",
@@ -1694,7 +1703,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "09",
         "DESCRIÇÃO3": "ESPAGUETE",
@@ -1703,7 +1712,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "10",
         "DESCRIÇÃO3": "ETIQUETA IDENTIFICAÇÃO TRAFO",
@@ -1712,7 +1721,7 @@ const dados = [
     {
         "TIPO": "03",
         "DESCRIÇÃO": "MP - MATERIA PRIMA",
-        "GRUPO": "26",
+        "GRUPO": "24",
         "DESCRIÇÃO2": "PRODUÇÃO TRANSFORMADORES",
         "SUBGRUPO": "11",
         "DESCRIÇÃO3": "NUCLEO PARA TRANSFORMADORES",
@@ -1722,7 +1731,7 @@ const dados = [
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - PAINEL",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "PAINEIS E QUADROS (ANTIGO 4188)",
         "CÓDIGO HDS": "4188"
@@ -1731,196 +1740,187 @@ const dados = [
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
         "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - PAINEL",
         "SUBGRUPO": "02",
-        "DESCRIÇÃO3": "ESTANTES DE BATERIAS",
-        "CÓDIGO HDS": "7601"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "03",
-        "DESCRIÇÃO3": "GABINETES MODULARES",
-        "CÓDIGO HDS": "7602"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "04",
-        "DESCRIÇÃO3": "GABINENTES DE BATERIAS",
-        "CÓDIGO HDS": "7602"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "05",
-        "DESCRIÇÃO3": "PACK'S DE BATERIAS",
-        "CÓDIGO HDS": "7602"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "06",
-        "DESCRIÇÃO3": "RACKS DE BATERIAS",
-        "CÓDIGO HDS": "7602"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "07",
-        "DESCRIÇÃO3": "CAT",
-        "CÓDIGO HDS": "7603"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "07",
-        "DESCRIÇÃO3": "BOTAS",
-        "CÓDIGO HDS": "7603"
-    },
-    {
-        "TIPO": "04",
-        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "08",
         "DESCRIÇÃO3": "QUADRO DE SOBREPOR (PADRÃO)",
         "CÓDIGO HDS": "4188"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "09",
-        "DESCRIÇÃO3": "PROTOTIPOS",
-        "CÓDIGO HDS": "-"
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "01",
+        "DESCRIÇÃO3": "ESTANTES DE BATERIAS",
+        "CÓDIGO HDS": "7601"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "10",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "02",
+        "DESCRIÇÃO3": "GABINETES MODULARES",
+        "CÓDIGO HDS": "7602"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "03",
+        "DESCRIÇÃO3": "GABINENTES DE BATERIAS",
+        "CÓDIGO HDS": "7602"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "04",
+        "DESCRIÇÃO3": "PACK'S DE BATERIAS",
+        "CÓDIGO HDS": "7602"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "05",
+        "DESCRIÇÃO3": "RACKS DE BATERIAS",
+        "CÓDIGO HDS": "7602"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "02",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - BANCO",
+        "SUBGRUPO": "06",
+        "DESCRIÇÃO3": "CAT",
+        "CÓDIGO HDS": "7603"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "01",
+        "DESCRIÇÃO3": "BOTAS",
+        "CÓDIGO HDS": "7603"
+    },
+    {
+        "TIPO": "04",
+        "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "02",
         "DESCRIÇÃO3": "ATM - PADRÃO PARA NO-BREAK",
         "CÓDIGO HDS": "7711"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "11",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "03",
         "DESCRIÇÃO3": "TIM - PADRÃO PARA NO-BREAK",
         "CÓDIGO HDS": "7721"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "12",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "04",
         "DESCRIÇÃO3": "ATT - PADRÃO PARA NO-BREAK",
         "CÓDIGO HDS": "7731"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "13",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "05",
         "DESCRIÇÃO3": "TIT - PADRÃO PARA NO-BREAK",
         "CÓDIGO HDS": "7741"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "14",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "06",
         "DESCRIÇÃO3": "ATT/TIT - BCR - PADRÃO NO-BREAK",
         "CÓDIGO HDS": "7751"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "15",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "07",
         "DESCRIÇÃO3": "TRANSF. ESPECIAIS PADRÃO NO-BREAK",
         "CÓDIGO HDS": "7761"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "16",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "08",
         "DESCRIÇÃO3": "ATM - PADRÃO PARA NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7911"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "17",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "09",
         "DESCRIÇÃO3": "TIM - PADRÃO PARA NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7921"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "18",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "10",
         "DESCRIÇÃO3": "ATT - PADRÃO PARA NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7931"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "19",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "11",
         "DESCRIÇÃO3": "TIT - PADRÃO PARA NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7941"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "20",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "12",
         "DESCRIÇÃO3": "ATT/TIT - BCR - PADRÃO NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7951"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
-        "SUBGRUPO": "21",
+        "GRUPO": "03",
+        "DESCRIÇÃO2": "PRODUTO PADRÃO - FINAL - TRAFO",
+        "SUBGRUPO": "13",
         "DESCRIÇÃO3": "TRANSF. ESPECIAIS PADRÃO NO-BREAK - EM CAT OU BOTA",
         "CÓDIGO HDS": "7961"
     },
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "01",
-        "DESCRIÇÃO2": "PRODUTOS PADRÕES (PRODUTO FINAL)",
+        "GRUPO": "04",
+        "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "BLOQUEIOS DE BY-PASS",
         "CÓDIGO HDS": "4166"
@@ -1928,7 +1928,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "02",
+        "GRUPO": "04",
         "DESCRIÇÃO2": "PEÇAS DE METALURGIA PADRÃO",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "PARTES DE FECHOS E DOBRADIÇAS",
@@ -1964,7 +1964,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "03",
+        "GRUPO": "05",
         "DESCRIÇÃO2": "PEÇAS INTERMEDIARIA S/ PADRÃO",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "INDUSTRIALIZAÇÃO",
@@ -1973,7 +1973,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "01",
         "DESCRIÇÃO3": "ACO CARBONO TRAFO - (PI)",
@@ -1982,7 +1982,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "02",
         "DESCRIÇÃO3": "ACO SILICIO TRAFO - (PI)",
@@ -1991,7 +1991,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "03",
         "DESCRIÇÃO3": "TIRANTES TRAFO - (PI)",
@@ -2000,7 +2000,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "04",
         "DESCRIÇÃO3": "ALUMINIO - (PI)",
@@ -2009,7 +2009,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "05",
         "DESCRIÇÃO3": "BARRA ALUMINIO TRAFO - (PI)",
@@ -2018,7 +2018,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "06",
         "DESCRIÇÃO3": "FIBRA DE VIDRO - (PI)",
@@ -2027,7 +2027,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "07",
         "DESCRIÇÃO3": "FENOLITE TRAFO - (PI)",
@@ -2036,7 +2036,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "08",
         "DESCRIÇÃO3": "THERNOMID - (PI)",
@@ -2045,7 +2045,7 @@ const dados = [
     {
         "TIPO": "04",
         "DESCRIÇÃO": "PI - PRODUTO INTERMEDIARIO",
-        "GRUPO": "04",
+        "GRUPO": "06",
         "DESCRIÇÃO2": "PEÇAS PRODUÇÃO TRANSFORMADOR",
         "SUBGRUPO": "09",
         "DESCRIÇÃO3": "FENOLITE - (PI)",
