@@ -75,9 +75,6 @@ dadosAgrupados.forEach((tipo, t) => {
         ${item.descricao}
     </div>
 
-    <div class="col-12 col-md-2 text-md-end hds">
-        ${item.hds}
-    </div>
 </div>
                                                 </li>
                                             `).join("")}
@@ -96,3 +93,4 @@ dadosAgrupados.forEach((tipo, t) => {
 function formatarCodigo(tipo, grupo, sub) {
     return `${tipo}.${grupo}.${sub}`;
 }
+
